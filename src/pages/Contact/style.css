@@ -1,0 +1,18 @@
+.contact {
+    height: 80vh;
+    padding: 5% 10%;
+    display: var(--flex);
+    flex-direction: var(--column);
+    align-items: var(--cntr);
+    justify-content: var(--cntr);
+}
+
+.text-contact {
+    width: 35%;
+    text-align: var(--cntr);
+}
+
+.contact-btn {
+    margin-top: 30px;
+    padding: 15px 40px;
+}
